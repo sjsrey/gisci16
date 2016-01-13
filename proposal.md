@@ -1,6 +1,6 @@
 # Tutorial Proposal: Spatial Data Analysis with  PySAL
 
-**Sergio J. Rey**  School of Geographical Sciences and Urban Planning Arizona State University
+**Sergio J. Rey**  School of Geographical Sciences and Urban Planning, Arizona State University
 
 **Daniel Arribas-Bel** Department of Geography and Planning, University of Liverpool
 
@@ -119,7 +119,7 @@ XXX (DAB have at it)
 
 GIScientists, researchers and students interested
 in learning Python and using PySAL for computational scripting in
-spatial analysis as well as GeoDaSpace for spatial econometrics.
+spatial analysis as well as for spatial econometrics, regionalization and geocomputation.
 
 ## Prerequisites
 
