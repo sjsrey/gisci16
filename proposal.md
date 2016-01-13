@@ -11,7 +11,7 @@
 A unique feature of this tutorial is the use of Python based software tools for
 spatial data analysis. Python is an object oriented scripting language that is
 gaining rapid adoption in the computational sciences.  To facilitate this
-adoption within the GIScience community the presenters have developed PySAL:
+adoption within the GIScience community the presenters and colleagues have developed PySAL:
 Python Library for Spatial Analysis. Since its initial release in July 2010,
 PySAL has been downloaded over 100,000 times and has become a featured package
 in the leading Python distributions for scientific computing.
