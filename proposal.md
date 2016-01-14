@@ -104,12 +104,9 @@ This tutorial will offer participants the following:
 
 ### PM Session
 
-XXX (DAB have at it)
+1.  GeoDaSpace and PySAL for Spatial Regression (80 min)
 
-
-2.  GeoDaSpace for Spatial Regression (80 min)
-
-    a.  GeoDaSpace and PySAL Overview (10 min)
+    a.  Overview (10 min)
 
     b.  Classic regression (40 min)
 
@@ -124,6 +121,28 @@ XXX (DAB have at it)
         i.  Spatial error model
 
         ii. Spatial lag model
+
+2.  Break (10 min)
+
+3.  Geodemographic analysis in Python (40)
+
+    a.  Overview
+
+    b.  Area classification
+
+    c.  Mapping classified areas
+
+    d.  Exploring the nature of the categories
+
+4.  Regionalization (40)
+
+    a.  Overview
+
+    b.  Defining space formally
+
+    c.  Creating regions from areas
+
+    d.  Mapping regions
 
 ## Audience
 
