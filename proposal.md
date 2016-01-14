@@ -50,9 +50,19 @@ Regional Science Review* from 1999-2014, and is currently the editor of
 Environment and Urban systems,  International Regional Science Review,
 Professional Geographer, Region et Devloppement, and Spatial Demography.*
 
-**Daniel Arribas-Bel**  XXX(DAB)
+**Daniel Arribas-Bel** is Lecturer in Geographic Data Science and member of
+the Geographic Data Science Lab at the University of Liverpool (UK). Previously,
+he held positions as Lecturer in Human Geography at the University of Birmingham,
+postdoctoral researcher at the Department of Spatial Economics at the VU University
+(Amsterdam), and postdoctoral researcher at the GeoDa Center for Geospatial 
+Analysis and Computation at Arizona State University. 
 
-
+Trained as an economist, Dani is interested in the spatial structure of cities as well
+as in the quantitative and computational methods required to leverage the power of the 
+large amount of urban data increasingly becoming available. He is also part of the team
+of core developers of PySAL, the open-source library written in Python for spatial
+analysis. Dani is also the book editor of *Environment and Planning B -
+Planning and Design*.
 
 
 ## Format
