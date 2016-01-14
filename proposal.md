@@ -2,7 +2,7 @@
 
 **Sergio J. Rey**  School of Geographical Sciences and Urban Planning, Arizona State University
 
-**Daniel Arribas-Bel** Department of Geography and Planning, University of Liverpool
+**Dani Arribas-Bel** Department of Geography and Planning, University of Liverpool
 
 
 
@@ -29,7 +29,7 @@ in Part I.
 
 Part 1: Introduction to PySAL for spatial data analysis - **Sergio J. Rey**
 
-Part 2: PySAL for spatial econometrics, regionalization, and geodemographics - **Daniel Arribas-Bel**
+Part 2: PySAL for spatial econometrics, regionalization, and geodemographics - **Dani Arribas-Bel**
 
 **Sergio J. Rey** is Professor of Geographical Sciences and core faculty member
 of the GeoDa Center of Geospatial Analysis and Computation at Arizona State
@@ -50,7 +50,7 @@ Regional Science Review* from 1999-2014, and is currently the editor of
 Environment and Urban systems,  International Regional Science Review,
 Professional Geographer, Region et Devloppement, and Spatial Demography.*
 
-**Daniel Arribas-Bel** is Lecturer in Geographic Data Science and member of
+**Dani Arribas-Bel** is Lecturer in Geographic Data Science and member of
 the Geographic Data Science Lab at the University of Liverpool (UK). Previously,
 he held positions as Lecturer in Human Geography at the University of Birmingham,
 postdoctoral researcher at the Department of Spatial Economics at the VU University
