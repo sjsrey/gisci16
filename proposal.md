@@ -2,7 +2,7 @@
 
 **Sergio J. Rey**  School of Geographical Sciences and Urban Planning, Arizona State University
 
-**Daniel Arribas-Bel** Department of Geography and Planning, University of Liverpool
+**Dani Arribas-Bel** Department of Geography and Planning, University of Liverpool
 
 
 
@@ -29,7 +29,7 @@ in Part I.
 
 Part 1: Introduction to PySAL for spatial data analysis - **Sergio J. Rey**
 
-Part 2: PySAL for spatial econometrics, regionalization, and geodemographics - **Daniel Arribas-Bel**
+Part 2: PySAL for spatial econometrics, regionalization, and geodemographics - **Dani Arribas-Bel**
 
 **Sergio J. Rey** is Professor of Geographical Sciences and core faculty member
 of the GeoDa Center of Geospatial Analysis and Computation at Arizona State
@@ -50,9 +50,19 @@ Regional Science Review* from 1999-2014, and is currently the editor of
 Environment and Urban systems,  International Regional Science Review,
 Professional Geographer, Region et Devloppement, and Spatial Demography.*
 
-**Daniel Arribas-Bel**  XXX(DAB)
+**Dani Arribas-Bel** is Lecturer in Geographic Data Science and member of
+the Geographic Data Science Lab at the University of Liverpool (UK). Previously,
+he held positions as Lecturer in Human Geography at the University of Birmingham,
+postdoctoral researcher at the Department of Spatial Economics at the VU University
+(Amsterdam), and postdoctoral researcher at the GeoDa Center for Geospatial 
+Analysis and Computation at Arizona State University. 
 
-
+Trained as an economist, Dani is interested in the spatial structure of cities as well
+as in the quantitative and computational methods required to leverage the power of the 
+large amount of urban data increasingly becoming available. He is also part of the team
+of core developers of PySAL, the open-source library written in Python for spatial
+analysis. Dani is also the book editor of *Environment and Planning B -
+Planning and Design*.
 
 
 ## Format
@@ -94,12 +104,9 @@ This tutorial will offer participants the following:
 
 ### PM Session
 
-XXX (DAB have at it)
+1.  GeoDaSpace and PySAL for Spatial Regression (80 min)
 
-
-2.  GeoDaSpace for Spatial Regression (80 min)
-
-    a.  GeoDaSpace and PySAL Overview (10 min)
+    a.  Overview (10 min)
 
     b.  Classic regression (40 min)
 
@@ -114,6 +121,28 @@ XXX (DAB have at it)
         i.  Spatial error model
 
         ii. Spatial lag model
+
+2.  Break (10 min)
+
+3.  Geodemographic analysis in Python (40)
+
+    a.  Overview
+
+    b.  Area classification
+
+    c.  Mapping classified areas
+
+    d.  Exploring the nature of the categories
+
+4.  Regionalization (40)
+
+    a.  Overview
+
+    b.  Defining space formally
+
+    c.  Creating regions from areas
+
+    d.  Mapping regions
 
 ## Audience
 
