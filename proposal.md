@@ -124,14 +124,14 @@ This tutorial will offer participants the following:
 
     b.  Classic regression (40 min)
 
-         1.  Basic model setup
-         2. Estimation (OLS and 2SLS)
-         3. Diagnostics for spatial effects in OLS and 2SLS
+      1.  Basic model setup
+      2. Estimation (OLS and 2SLS)
+      3. Diagnostics for spatial effects in OLS and 2SLS
 
     c.  Basic spatial regression (30 min)
 
-         1.  Spatial error model
-         2. Spatial lag model
+      1.  Spatial error model
+      2. Spatial lag model
 
 2.  Break (10 min)
 
