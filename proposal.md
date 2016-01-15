@@ -8,11 +8,11 @@
 
 ## Description
 
-A unique feature of this tutorial is the use of Python based software tools for
+A unique feature of this tutorial is the use of [Python] based software tools for
 spatial data analysis. Python is an object oriented scripting language that is
 gaining rapid adoption in the computational sciences.  To facilitate this
 adoption within the GIScience community the presenters and colleagues have
-developed PySAL: Python Library for Spatial Analysis. Since its initial release
+developed [PySAL: Python Library for Spatial Analysis]. Since its initial release
 in July 2010, PySAL has been downloaded over 100,000 times and has become a
 featured package in the leading Python distributions for scientific computing.
 
@@ -24,6 +24,9 @@ shifts the focus to spatial econometrics, regionalization and geodemographic
 applications of PySAL.  Part I is thus designed for participants with no prior
 Python experience, while the second part assumes knowledge of materials covered
 in Part I.
+
+[Python]: http://python.org
+[PySAL: Python Library for Spatial Analysis]: http://pysal.org
 
 ## Instructors
 
@@ -86,9 +89,11 @@ This tutorial will offer participants the following:
 1. Software and Tools Installation (15 min)
 
 2. Spatial data processing with PySAL (70 min)
- 
+
    a. Input-output
+
    b. Visualization and Mapping
+
    c. Spatial weights in PySAL
 
 4. Break (10 min)
@@ -96,16 +101,19 @@ This tutorial will offer participants the following:
 4. ESDA with PySAL (30 min)
 
    a. Global Autocorrelation
+
    b. Local Autocorrelation
 
 5. Point Patterns (30 min)
  
    a. Centrography
+
    b. Distance based statistics
 
 6. Spatial Dynamics (25 min)
 
    a. Markov and Spatial Markov Chains
+
    b. Space-time concordance
 
 ### PM Session
