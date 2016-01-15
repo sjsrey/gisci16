@@ -1,9 +1,11 @@
 # Tutorial Proposal: Geographical data science with PySAL and the pydata ecosystem
 
-**Sergio J. Rey**  School of Geographical Sciences and Urban Planning, Arizona State University
+**[Sergio J. Rey]**  School of Geographical Sciences and Urban Planning, Arizona State University.
 
-**Dani Arribas-Bel** Department of Geography and Planning, University of Liverpool
+**[Dani Arribas-Bel]** Department of Geography and Planning, University of Liverpool. 
 
+[Sergio J. Rey]: https://geoplan.asu.edu/people/sergio-j-rey
+[Dani Arribas-Bel]: http://darribas.org
 
 
 ## Description
