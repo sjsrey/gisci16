@@ -1,4 +1,4 @@
-# Tutorial Proposal: Spatial Data Analysis with  PySAL
+# Tutorial Proposal: Geographical data science with PySAL and the pydata ecosystem
 
 **Sergio J. Rey**  School of Geographical Sciences and Urban Planning, Arizona State University
 
@@ -11,10 +11,10 @@
 A unique feature of this tutorial is the use of Python based software tools for
 spatial data analysis. Python is an object oriented scripting language that is
 gaining rapid adoption in the computational sciences.  To facilitate this
-adoption within the GIScience community the presenters and colleagues have developed PySAL:
-Python Library for Spatial Analysis. Since its initial release in July 2010,
-PySAL has been downloaded over 100,000 times and has become a featured package
-in the leading Python distributions for scientific computing.
+adoption within the GIScience community the presenters and colleagues have
+developed PySAL: Python Library for Spatial Analysis. Since its initial release
+in July 2010, PySAL has been downloaded over 100,000 times and has become a
+featured package in the leading Python distributions for scientific computing.
 
 
 This two-part tutorial will first provide participants with a gentle
@@ -87,20 +87,26 @@ This tutorial will offer participants the following:
 
 2. Spatial data processing with PySAL (70 min)
  
-   1. Input-output
-   2. Visualization and Mapping
-   3. Spatial weights in PySAL
+   a. Input-output
+   b. Visualization and Mapping
+   c. Spatial weights in PySAL
 
 4. Break (10 min)
 
-4. ESDA with PySAL (30)
+4. ESDA with PySAL (30 min)
 
-   1. Global Autocorrelation
-   2. Local Autocorrelation
+   a. Global Autocorrelation
+   b. Local Autocorrelation
 
-5. Point Patterns (30)
+5. Point Patterns (30 min)
+ 
+   a. Centrography
+   b. Distance based statistics
 
-6. Spatial Dynamics (25)
+6. Spatial Dynamics (25 min)
+
+   a. Markov and Spatial Markov Chains
+   b. Space-time concordance
 
 ### PM Session
 
@@ -110,21 +116,18 @@ This tutorial will offer participants the following:
 
     b.  Classic regression (40 min)
 
-        i.  Basic model setup
-
-        ii. Estimation (OLS and 2SLS)
-
-        iii. Diagnostics for spatial effects in OLS and 2SLS
+         1.  Basic model setup
+         2. Estimation (OLS and 2SLS)
+         3. Diagnostics for spatial effects in OLS and 2SLS
 
     c.  Basic spatial regression (30 min)
 
-        i.  Spatial error model
-
-        ii. Spatial lag model
+         1.  Spatial error model
+         2. Spatial lag model
 
 2.  Break (10 min)
 
-3.  Geodemographic analysis in Python (40)
+3.  Geodemographic analysis in Python (40 min)
 
     a.  Overview
 
@@ -134,7 +137,7 @@ This tutorial will offer participants the following:
 
     d.  Exploring the nature of the categories
 
-4.  Regionalization (40)
+4.  Regionalization (40 min)
 
     a.  Overview
 
@@ -146,9 +149,9 @@ This tutorial will offer participants the following:
 
 ## Audience
 
-GIScientists, researchers and students interested
-in learning Python and using PySAL for computational scripting in
-spatial analysis as well as for spatial econometrics, regionalization and geocomputation.
+GIScientists, researchers and students interested in learning Python and using
+PySAL for computational scripting in spatial analysis as well as for spatial
+econometrics, regionalization and geocomputation.
 
 ## Prerequisites
 
